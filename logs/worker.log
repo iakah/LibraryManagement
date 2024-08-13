@@ -1,0 +1,7 @@
+2024-08-12 13:36:25,644 Worker rq:worker:d852ca7255604c18b2b0d2fd829e3d61 started with PID 5990, version 1.16.2
+2024-08-12 13:36:25,644 Subscribing to channel rq:pubsub:d852ca7255604c18b2b0d2fd829e3d61
+2024-08-12 13:36:25,648 *** Listening on home-cicada2313-frappe-bench:short, home-cicada2313-frappe-bench:default, home-cicada2313-frappe-bench:long...
+2024-08-12 13:36:25,649 Cleaning registries for queue: home-cicada2313-frappe-bench:short
+2024-08-12 13:36:25,651 Cleaning registries for queue: home-cicada2313-frappe-bench:default
+2024-08-12 13:36:25,654 Cleaning registries for queue: home-cicada2313-frappe-bench:long
+2024-08-12 13:40:27,697 Worker d852ca7255604c18b2b0d2fd829e3d61 [PID 5990]: warm shut down requested
